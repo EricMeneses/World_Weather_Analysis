@@ -1,6 +1,4 @@
 City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
-3,Keti Bandar,PK,70.65,clear sky,24.1447,67.4497,Keti Bandar
-7,Hermanus,ZA,70.0,clear sky,-34.4187,19.2345,Hermanus
 10,Saint-Philippe,RE,80.6,few clouds,-21.3585,55.7679,Saint-Philippe
 12,Pipri,IN,75.2,clear sky,19.8,75.5333,Pipri
 13,Atuona,PF,78.17,scattered clouds,-9.8,-139.0333,Atuona
@@ -8,28 +6,17 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 18,Rikitea,PF,79.23,broken clouds,-23.1203,-134.9692,Rikitea
 20,Yulara,AU,77.0,clear sky,-25.2406,130.9889,Petermann
 21,Georgetown,MY,86.0,few clouds,5.4112,100.3354,George Town
-24,Yeppoon,AU,73.4,broken clouds,-23.1333,150.7333,Yeppoon
 25,Butaritari,KI,79.16,few clouds,3.0707,172.7902,Isles Sunset Lodge
-36,Hervey Bay,AU,70.0,clear sky,-25.2986,152.8535,Hervey Bay
 40,Acarau,BR,87.62,broken clouds,-2.8856,-40.12,Acaraú
 41,Castro,BR,77.52,clear sky,-24.7911,-50.0119,Castro
-44,Cape Town,ZA,72.0,few clouds,-33.9258,18.4232,Cape Town
-47,East London,ZA,71.6,few clouds,-33.0153,27.9116,East London
-48,Port Alfred,ZA,70.0,scattered clouds,-33.5906,26.891,Port Alfred
 51,Santa Luzia,BR,77.0,broken clouds,-19.7697,-43.8514,Santa Luzia
 55,Mangaluru,IN,78.8,light rain,12.8667,74.8833,Mangalore
 57,Cayenne,GF,86.0,scattered clouds,4.9333,-52.3333,Cayenne
-58,Tiznit,MA,73.09,clear sky,29.5833,-9.5,Ouijjane
-59,Mar Del Plata,AR,72.0,light intensity drizzle,-38.0023,-57.5575,Mar del Plata
-61,Sao Filipe,CV,74.19,overcast clouds,14.8961,-24.4956,Sao Filipe
 63,La Romana,DO,84.2,scattered clouds,18.4273,-68.9728,La Romana
 64,Port-Gentil,GA,84.2,scattered clouds,-0.7193,8.7815,Port-Gentil
 67,Caravelas,BR,84.87,light rain,-17.7125,-39.2481,Caravelas
 68,Isangel,VU,78.8,few clouds,-19.55,169.2667,Isangel
 69,Ambon,ID,80.44,overcast clouds,-3.6954,128.1814,Teluk Ambon
-73,Vaini,TO,71.6,few clouds,-21.2,-175.2,Nukuhetulu
-77,Kamina,CD,74.41,light rain,-8.7386,24.9906,Kamina
-82,Pandaria,IN,71.22,broken clouds,22.2333,81.4167,Pandariya
 83,Soyo,AO,87.8,scattered clouds,-6.1349,12.3689,Soyo
 85,Muscat,OM,75.2,clear sky,23.6139,58.5922,Muscat
 86,Tautira,PF,77.0,light rain,-17.7333,-149.15,Tautira
@@ -40,16 +27,13 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 98,Vao,NC,80.01,scattered clouds,-22.6667,167.4833,Vao
 100,Sola,VU,77.0,few clouds,-13.8833,167.55,Sola
 103,Matara,LK,77.52,broken clouds,5.9485,80.5353,Matara
-104,Geraldton,AU,71.6,clear sky,-28.7667,114.6,Geraldton
 105,Avarua,CK,78.8,overcast clouds,-21.2078,-159.775,Avarua District
 114,Ambilobe,MG,77.77,light rain,-13.2,49.05,Ambilobe
 115,Warri,NG,87.57,overcast clouds,5.5167,5.75,Warri
-120,Rach Gia,VN,73.4,few clouds,10.0167,105.0833,Rạch Giá
 129,Sosua,DO,84.2,scattered clouds,19.7667,-70.5167,Sosúa
 131,Jacareacanga,BR,75.92,overcast clouds,-6.2222,-57.7528,Jacareacanga
 137,Ejido,VE,80.73,overcast clouds,8.5514,-71.2375,Merida
-141,Pisco,PE,71.6,few clouds,-13.7,-76.2167,Pisco
-144,Arraial Do Cabo,BR,78.8,overcast clouds,-22.9661,-42.0278,Cabo Frio
+144,Arraial Do Cabo,BR,78.8,overcast clouds,-22.9661,-42.0278,Arraial do Cabo
 147,Natal,BR,89.6,few clouds,-5.795,-35.2094,Natal
 148,Saint-Joseph,RE,80.6,light rain,-21.3667,55.6167,Saint-Joseph
 151,Kununurra,AU,82.4,scattered clouds,-15.7667,128.7333,Kununurra
@@ -59,19 +43,15 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 166,Galle,LK,78.21,broken clouds,6.0367,80.217,Galle
 169,Carnarvon,AU,80.6,scattered clouds,-24.8667,113.6333,Carnarvon
 170,Souillac,MU,80.6,broken clouds,-20.5167,57.5167,Souillac
-175,San Rafael,AR,73.02,clear sky,-34.6177,-68.3301,San Rafael
 180,Pointe-Noire,CG,86.0,scattered clouds,-4.7761,11.8635,Pointe-Noire
 185,Araouane,ML,89.82,broken clouds,18.9048,-3.5265,Araouane
 187,Touros,BR,89.6,scattered clouds,-5.1989,-35.4608,Touros
 189,Dingle,PH,75.25,overcast clouds,10.9995,122.6711,Pototan
-191,Gold Coast,AU,73.0,scattered clouds,-28.0,153.4333,Gold Coast
 193,Mindelo,CV,78.8,broken clouds,16.8901,-24.9804,Mindelo
 194,Poum,NC,80.47,clear sky,-20.2333,164.0167,Poum
-196,Charters Towers,AU,73.67,overcast clouds,-20.1,146.2667,Charters Towers
 197,Buenos Aires,AR,82.0,broken clouds,-34.6132,-58.3772,Buenos Aires
 198,Martapura,ID,75.2,overcast clouds,-3.4167,114.85,Martapura
 199,Chuy,UY,80.19,scattered clouds,-33.6971,-53.4616,Chuy
-200,Mhango,TZ,74.48,broken clouds,-3.2833,32.85,Songambele
 203,Simbahan,PH,81.36,overcast clouds,6.3032,120.5836,Pangutaran
 204,Cidreira,BR,82.24,broken clouds,-30.1811,-50.2056,CIDREIRA
 211,Isugod,PH,76.21,scattered clouds,9.3408,118.1196,Quezon
@@ -83,31 +63,21 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 221,Aswan,EG,78.28,clear sky,24.0934,32.907,Aswan
 222,Salalah,OM,77.0,clear sky,17.0151,54.0924,Salalah
 230,Biak,ID,78.06,overcast clouds,-0.9131,122.8766,CV. Karya Alam Perkasa
-231,Abu Dhabi,AE,71.6,clear sky,24.4667,54.3667,Abu Dhabi
 233,Buchanan,LR,84.2,light rain,5.8808,-10.0467,Buchanan
 238,Vila Velha,BR,89.6,clear sky,-20.3297,-40.2925,Vila Velha
-239,Alofi,NU,71.6,light rain,-19.0595,-169.9187,Alofi
 243,Umm Lajj,SA,76.96,clear sky,25.0213,37.2685,Umluj
 246,Ndjole,GA,85.39,moderate rain,-0.1783,10.7649,Ndjole
-247,Luderitz,,72.97,clear sky,-26.6481,15.1594,Luderitz
 248,Maningrida,AU,79.84,light rain,-12.0667,134.2667,West Arnhem
 249,Diamantina,BR,75.15,broken clouds,-18.2494,-43.6003,Diamantina
-254,Byron Bay,AU,71.6,broken clouds,-28.65,153.6167,Byron Bay
 255,Alto Longa,BR,86.58,overcast clouds,-5.2511,-42.2103,Alto Longá
 256,Manzanillo,CU,86.29,clear sky,20.3433,-77.1167,Manzanillo
 262,Puerto Cabezas,NI,82.4,broken clouds,14.0351,-83.3888,Puerto Cabezas
 265,Baculin,PH,77.34,light rain,7.4525,126.5842,Baganga
 267,Banda Aceh,ID,79.39,overcast clouds,5.5577,95.3222,Banda Aceh
-270,Saldanha,ZA,73.4,clear sky,-33.0117,17.9442,Saldanha
 272,Oriximina,BR,81.66,overcast clouds,-1.7656,-55.8661,Oriximiná
-274,Taltal,CL,70.93,few clouds,-25.4,-70.4833,Taltal
 276,Kavaratti,IN,81.82,clear sky,10.5669,72.642,Kavaratti
-282,Sumbawanga,TZ,73.4,light rain,-7.9667,31.6167,Sumbawanga
 283,Guantanamo,CU,84.2,few clouds,20.1444,-75.2092,Guantanamo
 284,Ikwiriri,TZ,79.29,scattered clouds,-7.9562,38.9716,Ikwiriri
-285,Los Llanos De Aridane,ES,71.6,clear sky,28.6585,-17.9182,Los Llanos
-288,Teguise,ES,73.4,haze,29.0605,-13.564,Teguise
-296,Durban,ZA,71.01,light rain,-29.8579,31.0292,Durban
 297,Anito,PH,77.58,overcast clouds,12.4497,125.2886,Gamay
 298,Mumford,GH,83.5,scattered clouds,5.2618,-0.759,Apam
 302,Santa Cruz,BO,84.2,broken clouds,-17.8,-63.1667,Santa Cruz de la Sierra
@@ -115,8 +85,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 309,Katobu,ID,77.45,overcast clouds,-4.9408,122.5276,Kampani
 310,Itarema,BR,88.7,broken clouds,-2.9248,-39.9167,Itarema
 311,Gulf Gate Estates,US,80.01,broken clouds,27.2517,-82.5147,Sarasota
-313,Henties Bay,,73.0,scattered clouds,-22.116,14.2845,Hentiesbaai
-314,Mount Isa,AU,73.4,broken clouds,-20.7333,139.5,Mount Isa
 315,Lubao,PH,75.2,broken clouds,14.9167,120.55,Lubao
 316,Praia,CV,78.8,clear sky,14.9215,-23.5087,Praia
 317,Katherine,AU,78.8,broken clouds,-14.4667,132.2667,Katherine
@@ -127,15 +95,12 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 336,Vanimo,PG,76.84,overcast clouds,-2.6741,141.3028,Vanimo
 337,Immokalee,US,84.0,broken clouds,26.4187,-81.4173,Corkscrew
 338,Hobyo,SO,78.3,scattered clouds,5.3505,48.5268,Hobyo
-344,Karachi,PK,71.6,smoke,24.9056,67.0822,Karachi
 346,Faanui,PF,81.9,overcast clouds,-16.4833,-151.75,Vaitape
 348,Puerto Colombia,CO,87.8,scattered clouds,10.9878,-74.9547,Sabanilla Montecarmelo
 351,Ampanihy,MG,81.91,overcast clouds,-24.7,44.75,Ampanihy
 352,Badami,IN,76.69,clear sky,15.915,75.6768,Badami
-353,Mutoko,ZW,72.46,overcast clouds,-17.397000000000002,32.2268,Mutoko
 355,Mahibadhoo,MV,81.61,broken clouds,3.7833,72.9667,Omadhoo
 356,Iquitos,PE,89.6,few clouds,-3.7481,-73.2472,Iquitos
-362,San Luis,AR,74.61,overcast clouds,-33.295,-66.3356,San Luis
 363,Lima,PE,78.8,clear sky,-12.0432,-77.0282,Lima
 365,Agadir,MA,84.2,clear sky,30.4202,-9.5982,Agadir
 369,Bethanien,,81.21,clear sky,-26.502,17.1583,Bethanien
@@ -148,7 +113,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 386,Benguela,AO,84.2,few clouds,-12.5763,13.4055,Benguela
 388,Huarmey,PE,76.75,clear sky,-10.0681,-78.1522,Cercado de Huarmey
 390,Sena Madureira,BR,89.15,broken clouds,-9.0656,-68.6569,Sena Madureira
-395,Yarada,IN,73.4,mist,17.65,83.2667,Visakhapatnam
 397,Namatanai,PG,80.69,moderate rain,-3.6667,152.4333,Namatanai
 398,Silva Jardim,BR,78.8,overcast clouds,-22.6508,-42.3917,Silva Jardim
 399,Bilma,NE,85.53,scattered clouds,18.6853,12.9164,Bilma
@@ -158,20 +122,15 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 412,Perth,AU,77.0,clear sky,-31.9333,115.8333,Perth
 421,Tingo Maria,PE,77.0,broken clouds,-9.2895,-76.0088,Tingo María
 422,Kapra,IN,78.01,haze,17.4846,78.561,Secunderabad
-423,Kawalu,ID,74.1,overcast clouds,-7.3817,108.2082,Tasikmalaya
 424,Cuamba,MZ,76.03,light rain,-14.8031,36.5372,Cuamba
-428,Nan,TH,71.17,clear sky,18.8333,100.6667,Pha Sing
 435,Samarai,PG,81.61,moderate rain,-10.6167,150.6667,Sidudu
 438,Owando,CG,88.11,overcast clouds,-0.4819,15.8999,Owando
 440,Sao Joao Da Barra,BR,89.6,broken clouds,-21.6403,-41.0511,Grussaí
 445,San Cristobal,VE,82.4,scattered clouds,7.7669,-72.225,San Cristobal
 446,Aden,YE,76.42,clear sky,12.7794,45.0367,Aden
 456,Walvis Bay,,78.8,clear sky,-22.9575,14.5053,Walvis Bay
-457,Kahului,US,73.4,scattered clouds,20.8947,-156.47,Kahului
 459,Chissamba,AO,84.2,clear sky,-12.1667,17.3333,Catabola
-461,Mafinga,TZ,73.94,light rain,-7.25,35.0667,Kisanga
 463,Tobane,BW,80.6,broken clouds,-21.95,27.9,Selebi Phikwe
-464,Atambua,ID,74.43,overcast clouds,-9.1061,124.8925,Atambua
 465,Gewane,ET,89.02,clear sky,10.1664,40.6453,Gewana
 469,Marawi,PH,79.0,moderate rain,7.9986,124.2928,Marawi City
 472,Cabedelo,BR,86.0,broken clouds,-6.9811,-34.8339,Cabedelo
@@ -184,12 +143,9 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 486,Aracruz,BR,89.6,clear sky,-19.8203,-40.2733,Aracruz
 487,Harper,LR,81.9,light rain,4.375,-7.7169,Harper
 492,Acapulco,MX,77.0,clear sky,16.8634,-99.8901,Acapulco
-496,Lata,PT,71.01,overcast clouds,40.1629,-8.3327,Coimbra
 498,Tignere,CM,88.68,scattered clouds,7.3667,12.65,Tignere
 503,Monrovia,LR,84.58,light rain,6.3005,-10.7969,Monrovia
 509,Mahebourg,MU,80.6,broken clouds,-20.4081,57.7,Mahebourg
-511,Tocopilla,CL,74.97,clear sky,-22.092,-70.1979,Tocopilla
-524,Mangrol,IN,70.84,clear sky,21.1167,70.1167,Mangrol
 527,Adrar,MR,84.67,few clouds,20.5022,-10.0711,
 528,Sibolga,ID,78.17,scattered clouds,1.7427,98.7792,Sibolga
 530,Champerico,GT,84.2,clear sky,14.3,-91.9167,Champerico
@@ -197,7 +153,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 532,Saquena,PE,89.85,overcast clouds,-4.6667,-73.5167,Saquena
 535,Lethem,GY,82.4,broken clouds,3.3803,-59.7968,Bonfim
 536,Adeje,ES,77.0,clear sky,28.1227,-16.726,Arona
-539,Makueni,KE,72.16,overcast clouds,-1.8041,37.6203,Wote
 542,Santa Maria,BR,82.4,broken clouds,-29.6842,-53.8069,Santa Maria
 544,Quatre Cocos,MU,82.0,broken clouds,-20.2078,57.7625,Central Flacq
 545,Angoram,PG,75.13,overcast clouds,-4.0625,144.0661,Angoram
@@ -207,23 +162,16 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 551,Sitio Novo Do Tocantins,BR,81.7,light rain,-5.5183,-47.4611,Imperatriz
 555,Kavieng,PG,82.58,light rain,-2.5744,150.7967,Kaewieng
 556,Katakwi,UG,87.08,overcast clouds,1.8911,33.9661,Katakwi
-560,Ixtapa,MX,71.6,clear sky,20.7,-105.2,Puerto Vallarta
 565,Bathsheba,BB,86.0,scattered clouds,13.2167,-59.5167,Wilson Hill
-569,Popondetta,PG,74.77,overcast clouds,-8.7537,148.2534,Popondetta
 573,Daru,PG,75.79,overcast clouds,-9.0763,143.2092,Daru
-574,Ormara,PK,72.27,clear sky,25.2088,64.6357,Ormara
 578,Huambo,AO,75.31,broken clouds,-12.7761,15.7392,Huambo
-579,Punta De Bombon,PE,74.8,clear sky,-17.1717,-71.7931,C.p la Punta de de Bombon
 580,Pandan,PH,76.37,broken clouds,14.0453,124.1694,Pandan
 582,Boynton Beach,US,86.0,scattered clouds,26.5254,-80.0664,Boynton Beach
 586,Grand Gaube,MU,82.0,overcast clouds,-20.0064,57.6608,Goodlands
 587,Balabac,PH,77.81,scattered clouds,7.9868,117.0645,Balabac
-589,Basco,PH,72.46,scattered clouds,20.4487,121.9702,Basco
 590,Padang,ID,78.8,scattered clouds,-0.9492,100.3543,Padang
-592,Magugu,TZ,74.1,light rain,-4.0167,35.7667,Madwa
 595,Aloleng,PH,76.91,scattered clouds,16.1307,119.7824,Agno
 599,Ugoofaaru,MV,81.75,overcast clouds,5.6667,73.0,Ungoofaaru
-600,Sri Aman,MY,73.4,overcast clouds,1.2376,111.4621,Sri Aman
 601,Trincomalee,LK,78.48,few clouds,8.5711,81.2335,Trincomalee
 603,Metro,ID,76.15,overcast clouds,-5.1131,105.3067,Metro
 608,Nabire,ID,76.6,overcast clouds,-3.3667,135.4833,Nabire
@@ -231,7 +179,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 611,Cozumel,MX,84.2,scattered clouds,20.5083,-86.9458,San Miguel de Cozumel
 613,Vangaindrano,MG,75.87,light rain,-23.35,47.6,Vangaindrano
 616,The Valley,AI,82.4,few clouds,18.217,-63.0578,The Valley
-620,Amuntai,ID,73.42,broken clouds,-2.4177,115.2494,Amuntai
 623,Diamantino,BR,82.6,overcast clouds,-14.4086,-56.4461,Diamantino
 625,Fomboni,KM,83.79,overcast clouds,-12.28,43.7425,Fomboni
 628,Tual,ID,82.69,overcast clouds,-5.6667,132.75,Tual
@@ -240,22 +187,15 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 632,Buala,SB,80.01,overcast clouds,-8.145,159.5921,Buala
 635,Voi,KE,84.56,broken clouds,-3.3945,38.563,Voi
 639,Manakara,MG,77.9,overcast clouds,-22.1333,48.0167,Manakara
-641,Tias,ES,73.4,haze,28.9611,-13.645,Puerto del Carmen
 650,Hualmay,PE,77.68,clear sky,-11.0964,-77.6139,Huacho
 651,Villa Carlos Paz,AR,77.0,moderate rain,-31.4241,-64.4978,Villa Carlos Paz
 652,Kotido,UG,85.28,overcast clouds,2.9806,34.1331,Kotido
 653,Iquique,CL,77.0,clear sky,-20.2208,-70.1431,Iquique
-657,Bulawayo,ZW,73.31,moderate rain,-20.15,28.5833,Bulawayo
 659,Buin,CL,75.0,haze,-33.7333,-70.75,San Bernardo
-661,Sale,MA,73.0,clear sky,34.0389,-6.8166,Rabat
 662,Kabompo,ZM,77.34,clear sky,-13.5927,24.2008,Kabompo
-669,Sao Felix Do Xingu,BR,73.31,moderate rain,-6.6447,-51.995,São Félix do Xingu
-671,Chabahar,IR,72.23,clear sky,25.2919,60.643,Chabahar
 673,Trairi,BR,87.8,overcast clouds,-3.2778,-39.2689,Trairi
 675,Batticaloa,LK,77.25,few clouds,7.7102,81.6924,Batticaloa
-676,Pangkalanbuun,ID,74.03,overcast clouds,-2.6833,111.6167,Pangkalan Bun
 677,Kudahuvadhoo,MV,81.59,overcast clouds,2.6708,72.8944,Kudahuvadhoo
 678,Morondava,MG,77.65,moderate rain,-20.2833,44.2833,Morondava
 679,Rocha,UY,80.1,overcast clouds,-34.4833,-54.3333,Rocha
 686,Maldonado,UY,78.8,few clouds,-34.6667,-54.9167,Chacra Gaia
-690,Palasa,IN,70.72,clear sky,18.7667,84.4167,Palasa at Kasibugga
