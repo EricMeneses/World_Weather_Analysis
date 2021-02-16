@@ -12,6 +12,7 @@ Deliverable 2: Create a Customer Travel Destinations Map
 Deliverable 3: Create a Travel Itinerary Map
 
 ## Results
+![alt text](Vacation_Search/WeatherPy_vacation_map.png)
 ![alt text](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 ![alt text](Vacation_Itinerary/WeatherPy_travel_map.png)
 We have put together a trip in Argentina, focusing on a vacation with a minimum of 75 degrees and a maximum of 90 degrees.
